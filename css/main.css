@@ -1,0 +1,60 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.fullheight {
+  height: 100%;
+}
+
+.bg-ff7f7f {
+  background: #ff7f7f;
+}
+
+.bg-ff7fbf {
+  background: #ff7fbf;
+}
+
+.bg-ff7fff {
+  background: #ff7fff;
+}
+
+.bg-bf7fff {
+  background: #bf7fff;
+}
+
+.bg-7f7fff {
+  background: #7f7fff;
+}
+
+.bg-7fbfff {
+  background: #7fbfff;
+}
+
+.bg-7fffff {
+  background: #7fffff;
+}
+
+.bg-7fffbf {
+  background: #7fffbf;
+}
+
+.bg-7fff7f {
+  background: #7fff7f;
+}
+
+.bg-bfff7f {
+  background: #bfff7f;
+}
+
+.bg-ffff7f {
+  background: #ffff7f;
+}
+
+.bg-ffbf7f {
+  background: #ffbf7f;
+}
